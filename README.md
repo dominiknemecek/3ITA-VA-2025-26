@@ -20,7 +20,7 @@ Tento repozitář obsahuje materiály pro třídu **3ITA** ve školním roce **2
 ## 📚 Odkazy
 - [Moodle kurz](https://eln.sps-prosek.cz/course/view.php?id=424)  
 - [Dokumentace k C# (Microsoft)](https://learn.microsoft.com/dotnet/csharp/)  
-- [GitHub návod] (https://www.youtube.com/watch?v=S7XpTAnSDL4)  
-- [ITnetwork] (https://www.itnetwork.cz/csharp)
-- [w3schools] (https://www.w3schools.com/cs/index.php)
-- [geeksforgeeks] (https://www.geeksforgeeks.org/c-sharp/csharp-programming-language/)
+- [GitHub návod](https://www.youtube.com/watch?v=S7XpTAnSDL4)  
+- [ITnetwork](https://www.itnetwork.cz/csharp)
+- [w3schools](https://www.w3schools.com/cs/index.php)
+- [geeksforgeeks](https://www.geeksforgeeks.org/c-sharp/csharp-programming-language/)
