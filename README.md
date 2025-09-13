@@ -5,6 +5,7 @@ Tento repozitář obsahuje materiály pro třídu **3ITA** ve školním roce **2
 ## 📂 Obsah repozitáře 
 - `00-main/domaci-ukoly` – zadání a řešení domácích úkolů  
 - `00-main/samostatna-prace` – samostatné projekty, dlouhodobější práce a jejich řešení
+- `00-main/ulohy-z-hodiny` – zdrojové kódy z hodiny, látka probíraná na hodinách
 - `01-promenne-a-datove-typy` – proměnné a datové typy, ukázky kódu, řešení 
 - `02-podminky` – podmínky a větvení programu, ukázky kódu, řešení 
 - `03-cykly` – cykly, ukázky kódu, řešení 
