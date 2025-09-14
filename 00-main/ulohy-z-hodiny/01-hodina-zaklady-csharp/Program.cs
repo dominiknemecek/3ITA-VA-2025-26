@@ -177,7 +177,7 @@ class Program
         // Jak to funguje: Funkce přečte řetězec a následně všechna písmena převede na velká.
         string city = "Praha";
         city = city.ToUpper();
-        Console.WriteLine(mesto);
+        Console.WriteLine(city);
 
         // Funkce ToLower()
         // Definice: Nastaví daný textový řetězec na malá písmena.
