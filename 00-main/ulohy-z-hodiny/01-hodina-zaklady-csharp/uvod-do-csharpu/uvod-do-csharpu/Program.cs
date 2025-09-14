@@ -261,15 +261,15 @@ class Program
         //-------------------------------------------------
         // Zdvojnásobení řetězce
         Console.WriteLine("Zadejte vstup a já ho vypíšu dvakrát: ");
-        string vstup = Console.ReadLine();
-        string vystup = vstup + ", " + vstup + "!";
-        Console.WriteLine(vystup);
+        string input = Console.ReadLine();
+        string output = input + ", " + input + "!";
+        Console.WriteLine(output);
 
         // Zdvojnásobení čísla za pomoci parsování
         Console.WriteLine("Zadejte číslo a já ho zdvojnásobím: ");
-        int cislo = int.Parse(Console.ReadLine());
-        cislo = cislo * 2;
-        Console.WriteLine(cislo);
+        int number = int.Parse(Console.ReadLine());
+        number = number * 2;
+        Console.WriteLine(number);
         
         // 4. číslo s parsováním - bezpečný TryParse
         //-------------------------------------------------
