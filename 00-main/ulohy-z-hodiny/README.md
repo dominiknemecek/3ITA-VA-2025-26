@@ -5,7 +5,7 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 | Téma hodiny               | Složka                              | Skupina S1 (datum) | Skupina S2 (datum) | Obsah |
 |----------------------------|--------------------------------------|-------------------|-------------------|-------|
 | Úvod do C#, IDE, první program  | `01-hodina-zaklady-csharp`          | 2025-09-12        | 2025-09-12        | Hello World, struktura projektu, načítání a výpis vstupu, datové typy, funkce pro string |
-| Podmínky (if, switch), cykly, načítání vstupu     | `02-hodina-zaklady-csharp`  | 2025-09-15        | -        | If/else, cykly, ASCII art, jednoduché úlohy |
+| Podmínky (if, switch), cykly, načítání vstupu     | `02-hodina-zaklady-csharp`  | 2025-09-15        | 2025-09-22        | If/else, cykly, ASCII art, jednoduché úlohy |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
