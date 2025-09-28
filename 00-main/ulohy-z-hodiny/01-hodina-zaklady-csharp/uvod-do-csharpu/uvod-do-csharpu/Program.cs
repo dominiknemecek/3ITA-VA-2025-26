@@ -279,7 +279,7 @@ class Program
         // --> bool ok = Typ.TryParse(vstup, out Typ promenna); --> Typ – datový typ, do kterého převádíš (int, double, decimal, …) 
         // --> vstup – řetězec, který jsi načetl z konzole (Console.ReadLine()) 
         // --> out Typ promenna – proměnná, do které se uloží výsledek, pokud převod proběhne
-        if (int.TryParse(input, out int number)) 
+        if (int.TryParse(input, out int number)) // Proměnnou input lze nahradit rovnou Console.ReadLine() a nebude potřeba proměnná input --> if (int.TryParse(Console.ReadLine(), out int number))
         {
             Console.WriteLine($"Zadal jsi číslo {number}");
         }
@@ -294,6 +294,14 @@ class Program
         Console.WriteLine("Zadejte první číslo:");
         float a;
         while (!float.TryParse(Console.ReadLine(), out a)) // vrací true, pokud převod proběhl úspěšně; vrací false, pokud převod selhal (uživatel zadal nesmysl, třeba „abc“)
+            Console.WriteLine("Neplatné číslo, zadejte prosím znovu:");
+
+        // 6. číslo s parsováním - bezpečný TryParse s opakováním + další podmínka
+        //-------------------------------------------------
+        // načtení čísel
+        Console.WriteLine("Zadejte první číslo:");
+        float a;
+        while (!float.TryParse(Console.ReadLine(), out a) || a > 5) // kontroluje obě dvě podmínky - zda proběhl převod úspěšně a zároveň zda je číslo menší nebo rovno 5
             Console.WriteLine("Neplatné číslo, zadejte prosím znovu:");
 
         // ======================================================
