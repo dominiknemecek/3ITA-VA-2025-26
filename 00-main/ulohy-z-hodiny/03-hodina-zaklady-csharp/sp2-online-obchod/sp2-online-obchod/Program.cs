@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        // === Obchod s množstevní slevou - samostatná práce č.3 ===
+        // === Obchod s množstevní slevou - samostatná práce č.2 ===
 
         // --- Nabídka produktů ---
         Console.WriteLine("Vyberte si produkt:");
