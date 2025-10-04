@@ -2,6 +2,8 @@
 {
     private static void Main(string[] args)
     {
+        // === Seřazení čísel - samostatná práce č.6 ===
+
         // --- Načtení prvního čísla ---
         Console.Write("Zadejte první číslo: ");
         int x;
