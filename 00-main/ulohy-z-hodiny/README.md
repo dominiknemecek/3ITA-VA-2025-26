@@ -14,8 +14,8 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 | Datové struktury      | ` -`                | 2025-10-17        | 2025-10-17      | Používání datových struktur (array, dictionary, list, ...) + Moodle test, Samostatná práce č.3 (matice)  |
 | Datové struktury      | ` 08-hodina-zaklady-csharp`                | 2025-10-24        | 2025-10-21      | Samostatná práce č.3 (matice) |
 | Datové struktury      | ` 09-hodina-zaklady-csharp`                | 2025-10-31        | 2025-10-31      | Samostatná práce č.4 (minové pole) | 
-| -      | ` -`                | -        | -      | - |  - |
-| -      | ` -`                | -        | -      | - |  - |
+| Datové struktury      | `10-hodina-zaklady-csharp`                | 2025-11-07        | 2025-11-04      | Průběžná práce na samostatné práci č.3 a č.4, zadání samostatné práce č.5 Aplikace pro tvorbu rozvrhu |
+| Datové struktury      | ` -`                | 2025-11-11        | 2025-11-07      | Průběžná práce na samostatné práci č.4 a č.5 |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
