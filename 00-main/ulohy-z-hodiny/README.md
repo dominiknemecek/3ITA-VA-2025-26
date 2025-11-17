@@ -16,6 +16,10 @@ Tady najdete přehled všech hodin – co se probíralo, kdy to bylo a ve které
 | Datové struktury      | ` 09-hodina-zaklady-csharp`                | 2025-10-31        | 2025-10-31      | Samostatná práce č.4 (minové pole) | 
 | Datové struktury      | `10-hodina-zaklady-csharp`                | 2025-11-07        | 2025-11-04      | Průběžná práce na samostatné práci č.3 a č.4, zadání samostatné práce č.5 Aplikace pro tvorbu rozvrhu |
 | Datové struktury      | ` -`                | 2025-11-11        | 2025-11-07      | Průběžná práce na samostatné práci č.4 a č.5 |
+| Datové struktury      | ` -`                | 2025-11-14        | 2025-11-14      | Průběžná práce na samostatné práci č.4 a č.5 |
+| Základy OOP v C#    | `11-hodina-zaklady-oop-csharp`                | 2025-11-21        | 2025-11-18      | Úvod do OOP, třída, objekt, základní principy |
+| Základy OOP v C#    | `12-hodina-zaklady-oop-csharp`                | 2025-11-25        | 2025-11-21      | - |
+| Základy OOP v C#    | `13-hodina-zaklady-oop-csharp`                | 2025-11-28        | 2025-11-28      | - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
 | -      | ` -`                | -        | -      | - |  - |
